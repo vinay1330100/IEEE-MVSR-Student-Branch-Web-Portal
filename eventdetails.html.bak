@@ -1,0 +1,109 @@
+<table width="100%" align="centre" cellpadding="0" cellspacing="0" border="1">
+		<tr align="center" bgcolor="gray" height="40">
+		<th>S.No</th>
+		<th>Date</th>
+		<th>Type</th>
+		<th>Event Name</th>
+		
+		</tr>
+		
+		<tr>
+		<td>01</td>
+		<td>19/01/2013</td>
+		<td>Technical</td>
+		<td>
+		<a href="events/IEEE MVSR INAUGURATION.pdf" target="display">
+		IEEE MVSR INAUGURATION
+		</a>
+		</td>
+	
+		</tr>
+
+
+	     <tr>
+		<td>02</td>
+		<td>15/02/2013</td>
+		<td>Technical</td>
+		<td>
+		<a href="events/QUIZ BUZZ 2 Report.pdf" target="display">
+		GOOGLE QUIZ BUZZ 2.0
+		</a>
+		</td>
+	
+		</tr>
+
+
+	      <tr>
+		<td>03</td>
+		<td>08/03/2013</td>
+		<td>Technical</td>
+		<td>
+		<a href="events/Women's Day IEEE MVSR SB Report.pdf" target="display">
+		WOMENS'S Day IEEE -MVSR SB
+		</a>
+		</td>
+	
+		</tr>
+
+
+		<tr>
+		<td>04</td>
+		<td>14/03/2013</td>
+		<td>Technical</td>
+		<td>
+		<a href="events/MATH HUNT.pdf" target="display">
+		MATH HUNT
+		</a>
+		</td>
+	
+		</tr>
+
+		<tr>
+		<td>05</td>
+		<td>15/08/2013</td>
+		<td>Social</td>
+		<td>
+		<a href="events/INDEPENDENCE DAY.doc" target="display">
+		INDEPENDENCE DAY
+		</a>
+		</td>
+	
+		</tr>
+
+		<tr>
+		<td>06</td>
+		<td>31/08/2013</td>
+		<td>Technical</td>
+		<td>
+		<a href="events/" target="display">
+		IEEE MVSR WIE INAUGURATION
+		</a>
+		</td>
+
+		</tr>
+		
+		<tr>
+		<td>07</td>
+		<td>20/09/2013
+           21/09/2013</td>
+		<td>Technical</td>
+		<td>
+		<a href="events/HACK-X-PLOIT.doc" target="display">
+		HACK-X-PLOIT WORKSHOP
+		</a>
+		</td>
+		
+		</tr>
+
+	<tr>
+		<td>08</td>
+		<td>01/10/2013</td>
+		<td>Technical</td>
+		<td>
+		<a href="events/IEEE DAY Report.doc" target="display">
+		IEEE DAY
+		</a>
+		</td>
+		
+		</tr>
+		</table>
